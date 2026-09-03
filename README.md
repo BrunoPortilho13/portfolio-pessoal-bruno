@@ -26,5 +26,5 @@ Os projetos desenvolvidos serão adicionados e documentados neste repositório.
 
 ## Autor
 
-Meu nome
+Bruno Antocheski Portilho
 
